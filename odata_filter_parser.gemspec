@@ -14,4 +14,8 @@ Gem::Specification.new do |gem|
   gem.name          = "odata_filter_parser"
   gem.require_paths = ["lib"]
   gem.version       = OdataFilterParser::VERSION
+
+  gem.add_dependency 'racc'
+  gem.add_development_dependency 'rake'
+  gem.add_development_dependency 'minitest'
 end
