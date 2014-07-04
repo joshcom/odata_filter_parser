@@ -1,6 +1,7 @@
 # OdataFilterParser
 
-TODO: Write a gem description
+Currently just fiddling with an OData 3 parser, while I look at other options.
+Nothing more than a toy, at the moment.
 
 ## Installation
 
